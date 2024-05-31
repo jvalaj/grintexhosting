@@ -1,4 +1,4 @@
-# grintexhosting
+# grintex registration system
 
 user authentication demo using mondo express react and tailwind 
 
